@@ -11,3 +11,5 @@ username = "fake"
 password = "completelyunreal"
 
 var = "nowayinhe11thisexists"
+
+var2 = "blahnowayinhe11thisexistsblah"
