@@ -9,3 +9,5 @@ for i in leet_list:
 
 username = "fake"
 password = "completelyunreal"
+
+var = "nowayinhe11thisexists"
